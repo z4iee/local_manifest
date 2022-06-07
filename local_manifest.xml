@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/oppo/A37" name="yashraj22/android_device_oppo_A37f.git" remote="github" revision="lineage-17.1" />
+ <project path="device/oppo/msm8916-common" name="yashraj22/android_device_cyanogen_msm8916-common.git" remote="github" revision="lineage-17.1" />
+ <project path="vendor/oppo" name="yashraj22/vendor_oppo_A37f.git" remote="github" revision="master" />
+ <project path="kernel/oppo/A37" name="yashraj22/kernel_oppo_A37f.git" remote="github" revision="lineage-17.1" />
+ 
+</manifest>
